@@ -165,11 +165,24 @@ footer p {
   max-width: 720px;
 }
 
-.back-link {
-  display: inline-block;
+.compact-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
   margin-bottom: 54px;
+  color: var(--text);
   font-weight: 650;
   text-decoration: none;
+}
+
+.compact-brand img {
+  width: 44px;
+  height: 44px;
+  border-radius: 11px;
+}
+
+.compact-brand:hover span {
+  color: var(--brand);
 }
 
 .document-header {
