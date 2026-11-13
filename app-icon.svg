@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Photo Cleanup app icon">
+  <path fill="#2563EB" d="M0 0H1024V1024H0Z"/>
+  <rect x="327" y="339" width="529" height="479" rx="78" fill="#FFFFFF" transform="rotate(11 591.5 578.5)"/>
+  <g transform="rotate(-12 444 480)">
+    <rect x="152" y="220" width="584" height="520" rx="78" fill="#DBEAFE"/>
+    <path d="M282 480L369 576L584 386" fill="none" stroke="#2563EB" stroke-width="78" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
