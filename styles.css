@@ -43,21 +43,9 @@ a {
 .app-mark {
   width: 62px;
   height: 62px;
-  display: grid;
-  place-items: center;
   border-radius: 15px;
-  background: var(--brand);
+  object-fit: cover;
   box-shadow: 0 12px 28px rgb(37 99 235 / 22%);
-}
-
-.app-mark svg {
-  width: 47px;
-  height: 47px;
-  fill: none;
-  stroke: white;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  stroke-width: 4;
 }
 
 .eyebrow {
